@@ -11,6 +11,7 @@
 
 ## 🛠️ Stack Tecnológica
 <img align="right" alt="mario-gif" height="330" width="310" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+
 ### Back-end
 <div style="display: inline-block;">
   <img style="pointer-events: none; cursor: default;" align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
