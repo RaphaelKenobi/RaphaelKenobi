@@ -21,6 +21,7 @@
   <img style="pointer-events: none; cursor: default;" align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img style="pointer-events: none; cursor: default;" align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img style="pointer-events: none; cursor: default;" align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img style="pointer-events: none; cursor: default;" align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
   <img style="pointer-events: none; cursor: default;" align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
   <img style="pointer-events: none; cursor: default;" align="center" alt="JQuery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
 </div>
@@ -28,7 +29,7 @@
 ### Ferramentas
 <div style="display: inline-block;">
   <img style="pointer-events: none; cursor: default;" align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img style="pointer-events: none; cursor: default; filter: brightness(0) invert(1);" align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img style="pointer-events: none; cursor: default;" align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="filter: invert(100%)"/>
   <img style="pointer-events: none; cursor: default;" align="center" alt="PyCharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
   <img style="pointer-events: none; cursor: default;" align="center" alt="Postman" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg"/>
 </div>
