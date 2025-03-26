@@ -29,7 +29,7 @@
 ### Ferramentas
 <div style="display: inline-block;">
   <img style="pointer-events: none; cursor: default;" align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img style="pointer-events: none; cursor: default;" align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="filter: invert(100%)"/>
+  <img style="pointer-events: none; cursor: default;" align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" style="background-color: transparent;"/>
   <img style="pointer-events: none; cursor: default;" align="center" alt="PyCharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
   <img style="pointer-events: none; cursor: default;" align="center" alt="Postman" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg"/>
 </div>
