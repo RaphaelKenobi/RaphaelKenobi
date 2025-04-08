@@ -13,8 +13,8 @@
 ### Back-end
 <div style="display: inline-block;">
   <img style="pointer-events: none; cursor: default;" align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+  <img style="pointer-events: none; cursor: default;" align="center" alt="Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
   <img style="pointer-events: none; cursor: default;" align="center" alt="Postgre" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img style="pointer-events: none; cursor: default;" align="center" alt="Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 </div>
 
 ### Front-end
