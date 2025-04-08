@@ -14,6 +14,7 @@
 <div style="display: inline-block;">
   <img style="pointer-events: none; cursor: default;" align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
   <img style="pointer-events: none; cursor: default;" align="center" alt="Postgre" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img style="pointer-events: none; cursor: default;" align="center" alt="Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 </div>
 
 ### Front-end
@@ -21,7 +22,6 @@
   <img style="pointer-events: none; cursor: default;" align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img style="pointer-events: none; cursor: default;" align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img style="pointer-events: none; cursor: default;" align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img style="pointer-events: none; cursor: default;" align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
   <img style="pointer-events: none; cursor: default;" align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
   <img style="pointer-events: none; cursor: default;" align="center" alt="JQuery" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
 </div>
